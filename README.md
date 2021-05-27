@@ -1,6 +1,6 @@
 # Disney Plus Clone
 
-This is the ReactJS Disney Plus Clone made with React JS, Firebase, Styled Components, Redux)
+This is the ReactJS Disney Plus Clone made with React JS, Firebase, Styled Components and Redux
 
 ## Available Scripts
 
